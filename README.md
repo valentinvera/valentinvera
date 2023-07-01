@@ -14,8 +14,6 @@
 
 <p align="left">- 👦🏽 Tengo 17 años.<br>- 🌐 Soy de Buenos Aires, Argentina.<br>- 📚 Actualmente estoy aprendiendo javascript y trato de adquirir nuevos conocimientos constantemente para poder superarme día a día.<br>- ⚡ Busco generar buenas experiencias e interfaces de usuario a través de la creación de sitios web.</p>
 
-###
-
 <h3 align="left">🛠 Lenguajes y herramientas</h3>
 
 <div align="left">
