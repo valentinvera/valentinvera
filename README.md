@@ -7,7 +7,7 @@
 <h2>👨🏻‍💻 Sobre Mí</h2>
 
 <p>
-- 👦🏻 Tengo 17 años.<br>
+- 👦🏻 Tengo 18 años.<br>
 - 🌐 Soy de Buenos Aires, Argentina.<br>
 - 📚 Trato de adquirir nuevos conocimientos constantemente para poder superarme día a día.<br>
 - ⚡ Busco generar buenas experiencias e interfaces de usuario a través de la creación de sitios web.</p>
