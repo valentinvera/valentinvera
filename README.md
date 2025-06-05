@@ -1,7 +1,5 @@
-<div>
-  <h1>¡Hello <img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="30px">! I'm Valentín Vera</h1>
-  <h2>Full Stack Web Developer 💻</h2>
-</div>
+<h1>¡Hello <img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="30px">! I'm Valentín Vera</h1>
+<h2>Full Stack Web Developer 💻</h2>
 
 <h2>👨🏻‍💻 About Me</h2>
 
@@ -48,11 +46,5 @@
 
 <h2>📨 Contact</h2>
 
-<div>
-    <a href="https://www.linkedin.com/in/valentinvera/">
-      <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="Linkedin Logo"/>
-    </a>
-    <a href="mailto:valentinvera2805@gmail.com">
-      <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="Gmail Logo"/>
-    </a>
-</div>
+<a href="https://www.linkedin.com/in/valentinvera/"><img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="Linkedin Logo"/></a>
+<a href="mailto:valentinvera2805@gmail.com"><img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="Gmail Logo"/></a>
