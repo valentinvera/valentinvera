@@ -1,6 +1,6 @@
-<div align="center">
-  <h3 style="font-size: 60px;">¡Hello <img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="30px">! I'm Valentín Vera</h3>
-  <h3 style="font-size: 50px;">Full Stack Web Developer 💻</h3>
+<div>
+  <h1>¡Hello <img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="30px">! I'm Valentín Vera</h1>
+  <h2>Full Stack Web Developer 💻</h2>
 </div>
 
 <h2>👨🏻‍💻 About Me</h2>
