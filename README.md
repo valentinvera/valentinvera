@@ -1,4 +1,4 @@
-<div style="text-align: center;">
+<div align="center">
   <h3 style="font-size: 40px;">¡Hello <img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="30px">! I'm Valentín Vera</h3>
   <h3 style="font-size: 30px;">Full Stack Web Developer 💻</h3>
 </div>
@@ -78,10 +78,11 @@
 
 <h2>📨 Contact</h2>
 
-<div style="display: flex; gap: 0px 10px;">
+<div>
     <a href="https://www.linkedin.com/in/valentinvera/" target="_blank" title="https://www.linkedin.com/in/valentinvera/">
       <img src="https://svgl.app/library/linkedin.svg" height="40" alt="Linkedin logo"/>
     </a>
+    <img width="12"/>
     <a href="mailto:valentinvera2805@gmail.com" target="_blank" title="valentinvera2805@gmail.com">
       <img src="https://svgl.app/library/gmail.svg" height="40" alt="Gmail Logo"/>
     </a>
