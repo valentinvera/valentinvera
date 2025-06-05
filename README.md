@@ -50,10 +50,9 @@
 
 <div>
     <a href="https://www.linkedin.com/in/valentinvera/">
-      <img src="https://svgl.app/library/linkedin.svg" height="40" alt="Linkedin logo"/>
+      <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="Linkedin Logo"/>
     </a>
-    <img width="12"/>
     <a href="mailto:valentinvera2805@gmail.com">
-      <img src="https://svgl.app/library/gmail.svg" height="40" alt="Gmail Logo"/>
+      <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="Gmail Logo"/>
     </a>
 </div>
