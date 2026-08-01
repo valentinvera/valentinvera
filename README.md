@@ -1,6 +1,6 @@
 # ¡Hello <img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="30px">! I'm Valentín Vera
 
-## Full Stack Web Developer 💻
+## Full Stack Developer 💻
 
 ## 👨🏻‍💻 About Me
 - 👦🏻 I’m 20 years old.<br>
